@@ -267,12 +267,16 @@ body.dark {
   }
 }
 
-.main{
-  margin: 10vw;
+#mainDiv{
+  margin: 10vh;
   margin-left: 20vw;
 }
 
 .homepageTitle{
   font-size: 6vh;
   font-family: 'Courgette', cursive;
+}
+
+.darkMode{
+  color: white;
 }
